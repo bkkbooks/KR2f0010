@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2f0010/WYG/v1/juan/77
+seq: 77
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 唐大詔令集巻八十七之巻九十八並闕文
+  hash: sha256:28170c223afcbc415db68076908641d8cbe0ab8e24ea38cbd357caaa7bc3d166
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2f0010_WYG_077-1a, image: WYG0426/WYG0426-0666c.png}
+metadata:
+  title: 唐大詔令集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:31:30.297103'
+  juan_title: 卷八十七之卷九十八並闕文
+  source:
+    repository: kanripo
+    path: KR2f0010/KR2f0010_077.txt
+hash: sha256:83fcbf41cdb046aaffc49d0273e543c21a6fbcc032d9478999ab444ba25dab0d

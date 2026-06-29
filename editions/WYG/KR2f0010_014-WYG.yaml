@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2f0010/WYG/v1/juan/14
+seq: 14
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 唐大詔令集巻十四之巻二十四並闕文
+  hash: sha256:d9265ba15d7e07edbd42204818b2f112092899f95a186ac89852dd0301233178
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2f0010_WYG_014-1a, image: WYG0426/WYG0426-0121a.png}
+metadata:
+  title: 唐大詔令集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:31:30.297103'
+  juan_title: 卷十四之卷二十四並闕文
+  source:
+    repository: kanripo
+    path: KR2f0010/KR2f0010_014.txt
+hash: sha256:c3304631fb762e599d2d0edd60d783891aedebd6ff01357d5438bedbdc6d8989

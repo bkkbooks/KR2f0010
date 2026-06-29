@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2f0010/krp/v1/juan/77
+seq: 77
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 唐大詔令集卷八十七之卷九十八並闕文
+  hash: sha256:7396b14847dffb19f9440d54d584d9a9891085f9e9d439a8cd087e2c5889feb8
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2f0010_WYG_077-1a, image: WYG0426/WYG0426-0666c.png}
+metadata:
+  title: 唐大詔令集
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:31:30.297103'
+  juan_title: 卷八十七之卷九十八並闕文
+  source:
+    repository: kanripo
+    path: KR2f0010/KR2f0010_077.txt
+hash: sha256:4453d1a3f33dcbea15882411c7eea2b19a653de1e2ba21b8fc0b4c681f567dbc

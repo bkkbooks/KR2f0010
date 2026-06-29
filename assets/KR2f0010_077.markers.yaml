@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR2f0010/bkk/v1/markers/77
+seq: 77
+markers:
+  front: []
+  body:
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR2f0010_krp_077-bkkkrnewl1}
+  - {type: line-break, offset: 0, content: '', id: KR2f0010_WYG_077-1a01}
+  - {type: indent, offset: 0, content: 　, id: KR2f0010_krp_077-bkkind1}
+  - {type: substitution, offset: 5, original: 巻, replacement: 卷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3741}}
+  - {type: substitution, offset: 10, original: 巻, replacement: 卷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3741}}
+  - {type: 'kr:newline', offset: 17, content: '
+
+      ', id: KR2f0010_krp_077-bkkkrnewl2}
+  back: []
+hash: sha256:fc4fe61e7385ee3dc0d9d5e0b9f813ec13bb6ec732ba7a478ef5aff88adc5146

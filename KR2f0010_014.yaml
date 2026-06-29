@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2f0010/krp/v1/juan/14
+seq: 14
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 唐大詔令集卷十四之卷二十四並闕文
+  hash: sha256:c9c11e6fe2714290be2bf633e03887fd2cf1dce263fd6da795fa15d0ffd7122e
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2f0010_WYG_014-1a, image: WYG0426/WYG0426-0121a.png}
+metadata:
+  title: 唐大詔令集
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:31:30.297103'
+  juan_title: 卷十四之卷二十四並闕文
+  source:
+    repository: kanripo
+    path: KR2f0010/KR2f0010_014.txt
+hash: sha256:db25ccc7c19500a37e2eadbf5643373fda57b9111cc6a7e602cbf60196f750d7
