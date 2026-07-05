@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 唐大詔令集卷八十七之卷九十八並闕文
-  hash: sha256:7396b14847dffb19f9440d54d584d9a9891085f9e9d439a8cd087e2c5889feb8
+  text: 唐大詔令集巻八十七之巻九十八並闕文
+  hash: sha256:28170c223afcbc415db68076908641d8cbe0ab8e24ea38cbd357caaa7bc3d166
   markers:
   - {type: page-break, offset: 0, content: '', id: KR2f0010_WYG_077-1a, image: WYG0426/WYG0426-0666c.png}
 metadata:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR2f0010/KR2f0010_077.txt
-hash: sha256:4453d1a3f33dcbea15882411c7eea2b19a653de1e2ba21b8fc0b4c681f567dbc
+hash: sha256:87b6ae3d1ec93981a560cfc6bbd048a42b5ba4219357f504fe0405ceb1d8bc1d
