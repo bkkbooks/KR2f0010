@@ -8,8 +8,10 @@ markers:
       ', id: KR2f0010_krp_014-bkkkrnewl1}
   - {type: line-break, offset: 0, content: '', id: KR2f0010_WYG_014-1a01}
   - {type: indent, offset: 0, content: 　, id: KR2f0010_krp_014-bkkind1}
+  - {type: substitution, offset: 5, original: 巻, replacement: 卷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20024}}
+  - {type: substitution, offset: 9, original: 巻, replacement: 卷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20024}}
   - {type: 'kr:newline', offset: 16, content: '
 
       ', id: KR2f0010_krp_014-bkkkrnewl2}
   back: []
-hash: sha256:b901f1872f1bbc016d058ea48c572d6dbc6945a1282c53a4472113c52929469f
+hash: sha256:4645a37e304a4b7313642b392b5cd30fd53dcc23908db25e3f2a85a22fbf9d7c
